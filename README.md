@@ -7,18 +7,20 @@
 ---
 
 ### 👨‍🔧 Hakkımda
-İzmir **Dokuz Eylül Üniversitesi** Elektrik-Elektronik Mühendisliği son sınıf öğrencisiyim. Şubat 2026'da mezun olacağım. Pratik çözümler üretmeye hevesli, öğrenmeye açık ve saha uygulamalarına meraklı bir mühendis adayıyım.
 
-* 🎓 **Eğitim:** Dokuz Eylül Üniversitesi (%100 İngilizce Müfredat) (2020 - 2026)
-* 🌍 **Dil Bilgisi:** İngilizce (Intermediate) - Teknik literatürü takip edebilecek yetkinlikteyim.
-* 📍 **Odak Noktam:** Güç sistemleri, PCB tasarımı, Devre analizi ve Bakım süreçleri.
-* 🚀 **Hedefim:** Teorik mühendislik bilgisini endüstriyel sahada işlevsel projelere dönüştürmek.
+İzmir **Dokuz Eylül Üniversitesi** Elektrik-Elektronik Mühendisliği son sınıf öğrencisiyim (Şubat 2026 mezuniyet hedefi). Güç sistemleri, PCB tasarımı ve saha uygulamalarına ilgi duyan, öğrenmeye açık bir mühendis adayıyım.
+
+- 🎓 **Eğitim:** Dokuz Eylül Üniversitesi – Elektrik-Elektronik Mühendisliği  
+  *(%100 İngilizce Müfredat, 2020 - 2026)*
+- 🌍 **Dil:** İngilizce (Intermediate) – Teknik literatürü takip edebilecek seviyede
+- 📍 **Odak Alanlarım:** Güç sistemleri, PCB tasarımı, devre analizi, bakım ve saha uygulamaları
+- 🚀 **Hedefim:** Teorik mühendislik bilgisini endüstriyel sahada **işlevsel ve sürdürülebilir** projelere dönüştürmek
 
 ---
 
 ### 🛠️ Mühendislik Araçları & Yetenekler
 
-Yazılım geliştirmeden ziyade, **elektrik proje tasarımı ve simülasyon** araçlarında yetkinim ve meraklıyım:
+Yazılımdan çok **elektrik proje tasarımı**, **simülasyon** ve **saha uygulamaları** odaklı çalışıyorum.
 
 <div align="center">
 
@@ -34,19 +36,25 @@ Yazılım geliştirmeden ziyade, **elektrik proje tasarımı ve simülasyon** ar
 
 ### 💼 Saha ve Staj Deneyimi
 
-**BRF Banvit** | *Stajyer Mühendis* (Temmuz 2025 - Ağustos 2025)
-* AutoCAD Electrical ile motor kontrol panosu çizimi ve revizyonu.
-* Ön işlem, paketleme, su arıtma ve soğuk hava deposu bölümlerinin işleyiş takibinde görev aldım.
+**BRF Banvit** | *Stajyer Mühendis*  
+*Temmuz 2025 - Ağustos 2025*
 
-**Sekonder Elektrik** | *Stajyer* (Ağustos 2024 - Eylül 2024)
-* Yüksek gerilim tesislerinde röle değişimi ve sekonder elektrik işlerinde görev aldım.
-* Sistem bakımı ve arıza giderme faaliyetlerine destek verdim.
+- AutoCAD Electrical ile motor kontrol panosu çizimi ve revizyonu
+- Ön işlem, paketleme, su arıtma ve soğuk hava deposu bölümlerinin elektriksel işleyiş takibi
+- Bakım ekibi ile arıza tespiti ve çözüm süreçlerine destek
+
+**Sekonder Elektrik** | *Stajyer*  
+*Ağustos 2024 - Eylül 2024*
+
+- Yüksek gerilim tesislerinde röle değişimi ve sekonder elektrik işleri
+- Koruma röleleri ve ölçü-devre elemanları ile çalışma
+- Sistem bakımı ve arıza giderme faaliyetlerine destek
 
 ---
 
 ### 📂 Dokümanlar & Raporlar
 
-Teknik yetkinliklerimi ve proje detaylarımı incelemek için aşağıdaki dosyalara göz atabilirsiniz:
+Teknik yetkinliklerimi ve projelerimi detaylı incelemek için:
 
 <div align="center">
 
@@ -65,25 +73,25 @@ Teknik yetkinliklerimi ve proje detaylarımı incelemek için aşağıdaki dosya
 
 | Organizasyon | Rol | Açıklama |
 | :--- | :--- | :--- |
-| **TÜBİTAK 2209-B** | *Araştırmacı* | Özgün araştırma projesi geliştirme ve teknik raporlama. |
-| **BÜRKÜT Roket Takımı** | *Aviyonik Sorumlusu* | Orta irtifa roket tasarımı ve aviyonik sistem sorumluluğu. |
-| **DEU SOLARIS** | *Takım Üyesi* | Güneş enerjili araç güç sistemleri optimizasyonu. |
+| **TÜBİTAK 2209-B** | *Araştırmacı* | Özgün araştırma projesi geliştirme, deneysel çalışma ve teknik raporlama. |
+| **BÜRKÜT Roket Takımı** | *Aviyonik Sorumlusu* | Orta irtifa roket tasarımı, aviyonik sistem seçimi ve entegrasyonu. |
+| **DEU SOLARIS** | *Takım Üyesi* | Güneş enerjili araçta güç sistemleri tasarımı ve optimizasyonu. |
 
 ---
 
 ### 📜 Sertifikalar
 
-* **TEI:** Havacılık Motorları Okulu Eğitimi
-* **BTK Akademi:** Proje Yönetimi & Yapay Zekaya Giriş
-* **Udemy:** KiCad ile Tasarım
+- **TEI:** Havacılık Motorları Okulu Eğitimi  
+- **BTK Akademi:** Proje Yönetimi & Yapay Zekaya Giriş  
+- **Udemy:** KiCad ile PCB Tasarımı  
 
 ---
 
 <div align="center">
-<a href="https://linkedin.com/in/mustfacik">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-</a>
-<a href="mailto:celikmustafa.ee@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+  <a href="https://linkedin.com/in/mustfacik">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:celikmustafa.ee@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
