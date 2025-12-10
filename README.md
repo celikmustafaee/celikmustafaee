@@ -1,58 +1,71 @@
 ### Hi there, I'm Mustafa ÇELİK! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Electrical-Electronics%20Engineer&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20|%20Automation%20|%20Maker&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Electrical%20&%20Electronics%20Engineer&fontSize=35&animation=fadeIn&fontAlignY=35&desc=Power%20Systems%20|%20PCB%20Design%20|%20Avionics&descAlignY=60&descAlign=50" />
 </div>
 
 ---
 
-### 👨‍💻 Hakkımda
-İzmir'de yaşayan, Dokuz Eylül Üniversitesi **Elektrik-Elektronik Mühendisliği** son sınıf öğrencisiyim. Şubat 2026'da mezun olacağım. Teorik bilgiyi sahada, tozun ve makine yağının içinde pratiğe dökmeyi severim.
+### 👨‍🔧 Hakkımda
+İzmir **Dokuz Eylül Üniversitesi** Elektrik-Elektronik Mühendisliği son sınıf öğrencisiyim. Pratik çözümler üretmeye hevesli, öğrenmeye açık ve saha uygulamalarında deneyimli bir mühendis adayıyım.
 
-Kariyer hedefim; endüstriyel otomasyon, gömülü sistemler ve donanım odaklı yazılımlar üzerinde uzmanlaşmak.
-
-* 🎓 **Eğitim:** Dokuz Eylül Üniversitesi, Elektrik-Elektronik Müh.
-* 📍 **Konum:** İzmir, Türkiye
-* 🧠 **Yaklaşımım:** Sabırlı, analitik ve adım adım ilerleyen bir çalışma disiplinine sahibim. Karmaşık problemleri parçalara bölerek çözmeyi tercih ederim.
+* 🎓 **Eğitim:** Dokuz Eylül Üniversitesi (2020 - 2026)
+* 📍 **Odak Noktam:** Güç sistemleri, PCB tasarımı, Devre analizi ve Bakım süreçleri.
+* 🚀 **Hedefim:** Teorik mühendislik bilgisini endüstriyel sahada işlevsel projelere dönüştürmek.
 
 ---
 
-### 💼 Deneyim & Geçmiş
-Mühendislik serüvenimde sahada ve Ar-Ge süreçlerinde aktif rol aldım:
+### 🛠️ Mühendislik Araçları & Yetenekler
 
-* **BRF Banvit** | *Bakım Planlama Stajyeri*
-    * Büyük ölçekli endüstriyel bakım süreçlerinin planlanması ve takibi.
-* **Sekonder Elektrik** | *Stajyer*
-    * Elektrik altyapı ve saha uygulamaları üzerine deneyim.
-* **BÜRKÜT Roket Takımı (Teknofest)** | *Eski Aviyonik Sorumlusu*
-    * Roket aviyonik sistemlerinin tasarımı, sensör verilerinin işlenmesi ve takım çalışması.
-
----
-
-### 🛠️ Yetenek Havuzu
-
-Mühendislik projelerimde sıklıkla kullandığım araçlar ve diller:
+Yazılım geliştirmeden ziyade, **elektrik proje tasarımı ve simülasyon** araçlarında yetkinim:
 
 <div align="center">
 
-| Alan | Teknolojiler |
+| Kategori | Araçlar |
 | :--- | :--- |
-| **Yazılım & Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **Gömülü Sistemler** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Espressif](https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white) |
-| **Tasarım & Modelleme** | ![Fusion 360](https://img.shields.io/badge/Autodesk%20Fusion%20360-0696D7?style=for-the-badge&logo=Autodesk%20Fusion%20360&logoColor=white) ![Proteus](https://img.shields.io/badge/Proteus-Phases?style=for-the-badge) |
-| **OS & Araçlar** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| **Devre & PCB Tasarım** | ![KiCad](https://img.shields.io/badge/KiCad-3145A0?style=for-the-badge&logo=kicad&logoColor=white) ![EasyEDA](https://img.shields.io/badge/EasyEDA-4053D6?style=for-the-badge&logo=easyeda&logoColor=white) ![Proteus](https://img.shields.io/badge/Proteus-Phases?style=for-the-badge) |
+| **Proje & Çizim** | ![AutoCAD](https://img.shields.io/badge/AutoCAD%20Electrical-E01E26?style=for-the-badge&logo=autodesk&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-ED7C30?style=for-the-badge&logo=mathworks&logoColor=white) |
+| **Ofis & Yönetim** | ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Project](https://img.shields.io/badge/Project_Management-blue?style=for-the-badge) |
 
 </div>
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 💼 Saha ve Staj Deneyimi
+
+**BRF Banvit** | *Stajyer Mühendis* (Temmuz 2025 - Ağustos 2025)
+* AutoCAD Electrical ile kontrol panosu çizimi.
+* Ön işlem, paketleme, su arıtma ve soğuk hava deposu bölümlerinin işleyiş takibi.
+
+**Sekonder Elektrik** | *Stajyer* (Ağustos 2024 - Eylül 2024)
+* Yüksek gerilim tesislerinde röle değişimi ve sekonder elektrik işleri.
+* Sistem bakımı ve arıza giderme faaliyetlerine destek.
+
+---
+
+### ⚡ Projeler ve Takımlar
+
+| Organizasyon | Rol | Açıklama |
+| :--- | :--- | :--- |
+| **TÜBİTAK 2209-B** | *Araştırmacı* | Özgün araştırma projesi geliştirme ve teknik raporlama. |
+| **BÜRKÜT Roket Takımı** | *Aviyonik Sorumlusu* | Orta irtifa roket tasarımı ve aviyonik sistem sorumluluğu. |
+| **DEU SOLARIS** | *Takım Üyesi* | Güneş enerjili araç güç sistemleri optimizasyonu. |
+
+---
+
+### 📜 Sertifikalar
+
+* **TEI:** Havacılık Motorları Okulu Eğitimi
+* **BTK Akademi:** Proje Yönetimi & Yapay Zekaya Giriş
+* **Udemy:** KiCad ile Tasarım
+
+---
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN_BURAYA&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<a href="https://linkedin.com/in/mustfacik">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN_BURAYA&layout=compact&theme=radical&hide_border=true" />
+<a href="mailto:celikmustafa.ee@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 </div>
