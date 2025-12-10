@@ -25,13 +25,14 @@ Yazılım geliştirmeden ziyade, **elektrik proje tasarımı, devre analizi ve t
 
 | Araç / Yazılım | Yetkinlik Seviyesi |
 | :--- | :--- |
-| ![AutoCAD Electrical](https://img.shields.io/badge/AutoCAD%20Electrical-E01E26?style=for-the-badge&logo=autodesk&logoColor=white) | <img src="https://geps.dev/progress/40" alt="Progress Bar" /> |
+| ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) | <img src="https://geps.dev/progress/90" alt="Progress Bar" /> |
 | ![KiCad](https://img.shields.io/badge/KiCad-3145A0?style=for-the-badge&logo=kicad&logoColor=white) | <img src="https://geps.dev/progress/70" alt="Progress Bar" /> |
 | ![EasyEDA](https://img.shields.io/badge/EasyEDA-4053D6?style=for-the-badge&logo=easyeda&logoColor=white) | <img src="https://geps.dev/progress/70" alt="Progress Bar" /> |
 | ![Proteus](https://img.shields.io/badge/Proteus-Phases?style=for-the-badge) | <img src="https://geps.dev/progress/65" alt="Progress Bar" /> |
 | ![MATLAB](https://img.shields.io/badge/MATLAB-ED7C30?style=for-the-badge&logo=mathworks&logoColor=white) | <img src="https://geps.dev/progress/40" alt="Progress Bar" /> |
+| ![AutoCAD Electrical](https://img.shields.io/badge/AutoCAD%20Electrical-E01E26?style=for-the-badge&logo=autodesk&logoColor=white) | <img src="https://geps.dev/progress/40" alt="Progress Bar" /> |
 | ![Fusion 360](https://img.shields.io/badge/Autodesk%20Fusion%20360-0696D7?style=for-the-badge&logo=Autodesk%20Fusion%20360&logoColor=white) | <img src="https://geps.dev/progress/30" alt="Progress Bar" /> |
-| ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) | <img src="https://geps.dev/progress/90" alt="Progress Bar" /> |
+
 
 </div>
 ---
