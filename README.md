@@ -1,4 +1,4 @@
-### Hi there, I'm Mustafa ÇELİK! 👋
+### Hello, I'm Mustafa ÇELİK! 👋
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Electrical%20&%20Electronics%20Engineer&fontSize=35&animation=fadeIn&fontAlignY=35&desc=Power%20Systems%20|%20PCB%20Design%20|%20Avionics&descAlignY=60&descAlign=50" />
@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍🔧 Hakkımda
-İzmir **Dokuz Eylül Üniversitesi** Elektrik-Elektronik Mühendisliği son sınıf öğrencisiyim. Pratik çözümler üretmeye hevesli, öğrenmeye açık ve saha uygulamalarında deneyimli bir mühendis adayıyım.
+İzmir **Dokuz Eylül Üniversitesi** Elektrik-Elektronik Mühendisliği son sınıf öğrencisiyim. Şubat 2026 da mezun oacağım. Pratik çözümler üretmeye hevesli, öğrenmeye açık ve saha uygulamalarına meraklı bir mühendis adayıyım.
 
 * 🎓 **Eğitim:** Dokuz Eylül Üniversitesi (2020 - 2026)
 * 📍 **Odak Noktam:** Güç sistemleri, PCB tasarımı, Devre analizi ve Bakım süreçleri.
@@ -17,7 +17,7 @@
 
 ### 🛠️ Mühendislik Araçları & Yetenekler
 
-Yazılım geliştirmeden ziyade, **elektrik proje tasarımı ve simülasyon** araçlarında yetkinim:
+Yazılım geliştirmeden ziyade, **elektrik proje tasarımı ve simülasyon** araçlarında yetkinim ve meraklıyım:
 
 <div align="center">
 
@@ -34,12 +34,12 @@ Yazılım geliştirmeden ziyade, **elektrik proje tasarımı ve simülasyon** ar
 ### 💼 Saha ve Staj Deneyimi
 
 **BRF Banvit** | *Stajyer Mühendis* (Temmuz 2025 - Ağustos 2025)
-* AutoCAD Electrical ile kontrol panosu çizimi.
-* Ön işlem, paketleme, su arıtma ve soğuk hava deposu bölümlerinin işleyiş takibi.
+* AutoCAD Electrical ile basit motor kontrol panosu çizimi.
+* Ön işlem, paketleme, su arıtma ve soğuk hava deposu bölümlerinin işleyiş takibinde görev aldım.
 
 **Sekonder Elektrik** | *Stajyer* (Ağustos 2024 - Eylül 2024)
-* Yüksek gerilim tesislerinde röle değişimi ve sekonder elektrik işleri.
-* Sistem bakımı ve arıza giderme faaliyetlerine destek.
+* Yüksek gerilim tesislerinde röle değişimi ve sekonder elektrik işlerinde görev aldım.
+* Sistem bakımı ve arıza giderme faaliyetlerine destek verdim.
 
 ---
 
