@@ -25,7 +25,7 @@ Yazılım geliştirmeden ziyade, **elektrik proje tasarımı, devre analizi ve t
 
 | Araç / Yazılım | Yetkinlik Seviyesi |
 | :--- | :--- |
-| ![AutoCAD Electrical](https://img.shields.io/badge/AutoCAD%20Electrical-E01E26?style=for-the-badge&logo=autodesk&logoColor=white) | <img src="https://geps.dev/progress/85" alt="Progress Bar" /> |
+| ![AutoCAD Electrical](https://img.shields.io/badge/AutoCAD%20Electrical-E01E26?style=for-the-badge&logo=autodesk&logoColor=white) | <img src="https://geps.dev/progress/40" alt="Progress Bar" /> |
 | ![KiCad](https://img.shields.io/badge/KiCad-3145A0?style=for-the-badge&logo=kicad&logoColor=white) | <img src="https://geps.dev/progress/70" alt="Progress Bar" /> |
 | ![EasyEDA](https://img.shields.io/badge/EasyEDA-4053D6?style=for-the-badge&logo=easyeda&logoColor=white) | <img src="https://geps.dev/progress/70" alt="Progress Bar" /> |
 | ![Proteus](https://img.shields.io/badge/Proteus-Phases?style=for-the-badge) | <img src="https://geps.dev/progress/65" alt="Progress Bar" /> |
