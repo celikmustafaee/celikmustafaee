@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mustafa ÇELİK | Elektrik-Elektronik Mühendisi</title>
+    <style>
+        :root {
+            --bg-color: #0d1117;
+            --card-bg: #161b22;
+            --text-main: #c9d1d9;
+            --text-header: #ffffff;
+            --accent: #2f81f7; /* Mühendislik Mavisi */
+            --accent-secondary: #238636; /* Onay Yeşili */
+            --border: #30363d;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* Header Kısmı */
+        header {
+            text-align: center;
+            padding: 60px 20px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        h1 {
+            color: var(--text-header);
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+
+        .title {
+            color: var(--accent);
+            font-size: 1.2rem;
+            font-weight: bold;
+            letter-spacing: 1px;
+        }
+
+        .bio {
+            margin-top: 20px;
+            color: #8b949e;
+        }
+
+        /* Kartlar ve Bölümler */
+        section {
+            margin: 40px 0;
+            background-color: var(--card-bg);
+            padding: 25px;
+            border-radius: 10px;
+            border: 1px solid var(--border);
+        }
+
+        h2 {
+            color: var(--text-header);
+            border-bottom: 2px solid var(--border);
+            padding-bottom: 10px;
+            margin-top: 0;
+        }
+
+        /* Yetenek Barları */
+        .skill-box {
+            margin-bottom: 15px;
+        }
+        .skill-info {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 5px;
+        }
+        .progress-bar {
+            background: #30363d;
+            height: 10px;
+            border-radius: 5px;
+            overflow: hidden;
+        }
+        .progress {
+            height: 100%;
+            background: var(--accent);
+            width: 0;
+            transition: width 1s ease-in-out;
+        }
+
+        /* Deneyim Listesi */
+        .job {
+            margin-bottom: 20px;
+            border-left: 3px solid var(--accent-secondary);
+            padding-left: 15px;
+        }
+        .job h3 {
+            margin: 0;
+            color: var(--text-header);
+        }
+        .date {
+            font-size: 0.9rem;
+            color: #8b949e;
+            font-style: italic;
+        }
+
+        /* Butonlar */
+        .btn-group {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .btn {
+            display: inline-block;
+            background-color: var(--card-bg);
+            color: var(--accent);
+            padding: 10px 20px;
+            text-decoration: none;
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            margin: 5px;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+        .btn:hover {
+            background-color: var(--accent);
+            color: white;
+            border-color: var(--accent);
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 40px;
+            font-size: 0.8rem;
+            color: #8b949e;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>Mustafa ÇELİK</h1>
+            <div class="title">ELEKTRİK-ELEKTRONİK MÜHENDİSİ</div>
+            <p class="bio">
+                Dokuz Eylül Üniversitesi son sınıf öğrencisiyim. <br>
+                Güç sistemleri, PCB tasarımı ve Saha Uygulamaları üzerine yoğunlaşıyorum. <br>
+                Teoriyi sahada pratiğe dökmeyi severim.
+            </p>
+            
+            <div class="btn-group">
+                <a href="mailto:celikmustafa.ee@gmail.com" class="btn">📩 Bana Ulaşın</a>
+                <a href="https://github.com/celikmustafaee/celikmustafaee/blob/main/CV_Mustafa_CELIK.pdf" class="btn">📄 CV İndir</a>
+                <a href="https://linkedin.com/in/mustfacik" class="btn">🔗 LinkedIn</a>
+            </div>
+        </header>
+
+        <section>
+            <h2>🛠️ Teknik Yetkinlikler</h2>
+            
+            <div class="skill-box">
+                <div class="skill-info"><span>AutoCAD Electrical</span><span>85%</span></div>
+                <div class="progress-bar"><div class="progress" style="width: 85%"></div></div>
+            </div>
+
+            <div class="skill-box">
+                <div class="skill-info"><span>KiCad & EasyEDA (PCB)</span><span>70%</span></div>
+                <div class="progress-bar"><div class="progress" style="width: 70%"></div></div>
+            </div>
+
+            <div class="skill-box">
+                <div class="skill-info"><span>Proteus Simülasyon</span><span>65%</span></div>
+                <div class="progress-bar"><div class="progress" style="width: 65%"></div></div>
+            </div>
+
+            <div class="skill-box">
+                <div class="skill-info"><span>Fusion 360 (3D Tasarım)</span><span>30%</span></div>
+                <div class="progress-bar"><div class="progress" style="width: 30%"></div></div>
+            </div>
+             <div class="skill-box">
+                <div class="skill-info"><span>MATLAB</span><span>40%</span></div>
+                <div class="progress-bar"><div class="progress" style="width: 40%"></div></div>
+            </div>
+        </section>
+
+        <section>
+            <h2>💼 Saha Deneyimi</h2>
+            
+            <div class="job">
+                <h3>BRF Banvit - Stajyer Mühendis</h3>
+                <span class="date">Temmuz 2025 - Ağustos 2025</span>
+                <p>AutoCAD Electrical ile motor kontrol panosu çizimi ve fabrika genelinde (Su arıtma, paketleme) süreç takibi.</p>
+            </div>
+
+            <div class="job">
+                <h3>Sekonder Elektrik - Stajyer</h3>
+                <span class="date">Ağustos 2024 - Eylül 2024</span>
+                <p>Yüksek gerilim tesislerinde röle değişimi, sekonder elektrik işleri ve arıza giderme desteği.</p>
+            </div>
+        </section>
+
+        <section>
+            <h2>⚡ Projeler</h2>
+            <div class="job" style="border-left-color: #a371f7;">
+                <h3>TÜBİTAK 2209-B Araştırmacısı</h3>
+                <p>Otomasyonlu makine tasarımı, silo çizimleri ve sistem entegrasyonu.</p>
+            </div>
+            <div class="job" style="border-left-color: #a371f7;">
+                <h3>BÜRKÜT Roket Takımı (TEKNOFEST)</h3>
+                <p>Aviyonik sistem sorumlusu. Sensör verilerinin işlenmesi ve sistem tasarımı.</p>
+            </div>
+        </section>
+
+        <footer>
+            <p>© 2025 Mustafa ÇELİK - İzmir, Türkiye</p>
+        </footer>
+    </div>
+
+</body>
+</html>
