@@ -11,7 +11,7 @@
 
 * 🎓 **Eğitim:** Dokuz Eylül Üniversitesi (%100 İngilizce Müfredat) (2020 - 2026)
 * 🌍 **Dil Bilgisi:** İngilizce (Orta Seviye) - Teknik literatürü takip edebilecek yetkinlikte.
-* 🚗 **Ehliyet:** B ve A2 Sınıfı (Aktif Sürücü) - Saha mobilizasyonuna uygun.
+* 🚗 **Ehliyet:** B ve A2 Sınıfı 
 * 📍 **Odak Noktam:** Güç sistemleri, PCB tasarımı, Devre analizi ve Bakım süreçleri.
 * 🚀 **Hedefim:** Teorik mühendislik bilgisini endüstriyel sahada işlevsel projelere dönüştürmek.
 
