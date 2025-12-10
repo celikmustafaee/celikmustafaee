@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍🔧 Hakkımda
-İzmir **Dokuz Eylül Üniversitesi** Elektrik-Elektronik Mühendisliği son sınıf öğrencisiyim. Şubat 2026 da mezun oacağım. Pratik çözümler üretmeye hevesli, öğrenmeye açık ve saha uygulamalarına meraklı bir mühendis adayıyım.
+İzmir **Dokuz Eylül Üniversitesi** Elektrik-Elektronik Mühendisliği son sınıf öğrencisiyim. Şubat 2026'da mezun olacağım. Pratik çözümler üretmeye hevesli, öğrenmeye açık ve saha uygulamalarına meraklı bir mühendis adayıyım.
 
 * 🎓 **Eğitim:** Dokuz Eylül Üniversitesi (2020 - 2026)
 * 📍 **Odak Noktam:** Güç sistemleri, PCB tasarımı, Devre analizi ve Bakım süreçleri.
@@ -34,12 +34,29 @@ Yazılım geliştirmeden ziyade, **elektrik proje tasarımı ve simülasyon** ar
 ### 💼 Saha ve Staj Deneyimi
 
 **BRF Banvit** | *Stajyer Mühendis* (Temmuz 2025 - Ağustos 2025)
-* AutoCAD Electrical ile basit motor kontrol panosu çizimi.
+* AutoCAD Electrical ile motor kontrol panosu çizimi ve revizyonu.
 * Ön işlem, paketleme, su arıtma ve soğuk hava deposu bölümlerinin işleyiş takibinde görev aldım.
 
 **Sekonder Elektrik** | *Stajyer* (Ağustos 2024 - Eylül 2024)
 * Yüksek gerilim tesislerinde röle değişimi ve sekonder elektrik işlerinde görev aldım.
 * Sistem bakımı ve arıza giderme faaliyetlerine destek verdim.
+
+---
+
+### 📂 Dokümanlar & Raporlar
+
+Teknik yetkinliklerimi ve proje detaylarımı incelemek için aşağıdaki dosyalara göz atabilirsiniz:
+
+<div align="center">
+
+| Belge | İndir / İncele |
+| :--- | :--- |
+| **📄 Özgeçmiş (CV)** | <a href="https://github.com/celikmustafaee/celikmustafaee/blob/main/CV_Mustafa_CELIK.pdf">**[ Görüntüle ]**</a> |
+| **🚀 TÜBİTAK Proje Raporu** | <a href="https://github.com/celikmustafaee/celikmustafaee/blob/main/TUBITAK_Mustafa_celik_2209b.pdf">**[ Raporu Oku ]**</a> |
+| **📐 AutoCAD Projesi (Fan)** | <a href="https://github.com/celikmustafaee/celikmustafaee/blob/main/Autocad_electrıcal_fan.pdf">**[ Çizimi Gör ]**</a> |
+| **📘 Teknik Portfolyo** | <a href="https://github.com/celikmustafaee/celikmustafaee/blob/main/Portfolyo.pdf">**[ İncele ]**</a> |
+
+</div>
 
 ---
 
