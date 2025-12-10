@@ -10,10 +10,10 @@
 İzmir **Dokuz Eylül Üniversitesi** Elektrik-Elektronik Mühendisliği son sınıf öğrencisiyim. Şubat 2026'da mezun olacağım. Pratik çözümler üretmeye hevesli, öğrenmeye açık ve saha uygulamalarına meraklı bir mühendis adayıyım.
 
 * 🎓 **Eğitim:** Dokuz Eylül Üniversitesi (%100 İngilizce Müfredat) (2020 - 2026)
-* 🌍 **Dil Bilgisi:** İngilizce (Orta Seviye) - Teknik literatürü takip edebilecek yetkinlikte.
+* 🌍 **Dil Bilgisi:** İngilizce (Orta Seviye) - Teknik literatürü takip edebilecek yetkinlikteyim.
 * 🚗 **Ehliyet:** B ve A2 Sınıfı 
-* 📍 **Odak Noktam:** Güç sistemleri, PCB tasarımı, Devre analizi ve Bakım süreçleri.
-* 🚀 **Hedefim:** Teorik mühendislik bilgisini endüstriyel sahada işlevsel projelere dönüştürmek.
+* 📍 **Odak Noktam:** Güç sistemleri, PCB tasarımı, devre analizi ve bakım süreçleri.
+* 🚀 **Hedefim:** Teorik mühendislik bilgimi endüstriyel sahada işlevsel projelere dönüştürmek.
 
 ---
 
@@ -33,19 +33,19 @@ Yazılım geliştirmeden ziyade, **elektrik proje tasarımı, devre analizi ve t
 | ![AutoCAD Electrical](https://img.shields.io/badge/AutoCAD%20Electrical-E01E26?style=for-the-badge&logo=autodesk&logoColor=white) | <img src="https://geps.dev/progress/40" alt="Progress Bar" /> |
 | ![Fusion 360](https://img.shields.io/badge/Autodesk%20Fusion%20360-0696D7?style=for-the-badge&logo=Autodesk%20Fusion%20360&logoColor=white) | <img src="https://geps.dev/progress/30" alt="Progress Bar" /> |
 
-
 </div>
+
 ---
 
 ### 💼 Saha ve Staj Deneyimi
 
-**BRF Banvit** | *Stajyer Mühendis* (Temmuz 2025 - Ağustos 2025)
-* AutoCAD Electrical ile motor kontrol panosu çizimi ve revizyonu.
-* Ön işlem, paketleme, su arıtma ve soğuk hava deposu bölümlerinin işleyiş takibi.
+**BRF Banvit** | *Stajyer Mühendis* (Temmuz 2025 - Ağustos 2025)  
+* AutoCAD Electrical ile motor kontrol panosu çizimi ve revizyonu.  
+* Ön işlem, paketleme, su arıtma ve soğuk hava deposu bölümlerinin işleyiş takibinde görev aldım.  
 
-**Sekonder Elektrik** | *Stajyer* (Ağustos 2024 - Eylül 2024)
-* Yüksek gerilim tesislerinde röle değişimi ve sekonder elektrik işleri.
-* Sistem bakımı ve arıza giderme faaliyetlerine destek.
+**Sekonder Elektrik** | *Stajyer* (Ağustos 2024 - Eylül 2024)  
+* Yüksek gerilim tesislerinde röle değişimi ve sekonder elektrik işlerinde görev aldım.  
+* Sistem bakımı ve arıza giderme faaliyetlerine destek verdim.  
 
 ---
 
@@ -78,9 +78,9 @@ Teknik yetkinliklerimi ve proje detaylarımı incelemek için aşağıdaki dosya
 
 ### 📜 Sertifikalar
 
-* **TEI:** Havacılık Motorları Okulu Eğitimi
-* **BTK Akademi:** Proje Yönetimi & Yapay Zekaya Giriş
-* **Udemy:** KiCad ile Tasarım
+* **TEI:** Havacılık Motorları Okulu Eğitimi  
+* **BTK Akademi:** Proje Yönetimi & Yapay Zekaya Giriş  
+* **Udemy:** KiCad ile Tasarım  
 
 ---
 
