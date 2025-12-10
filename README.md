@@ -19,18 +19,21 @@
 
 ### 🛠️ Mühendislik Araçları & Yetkinlikler
 
-Yazılım geliştirmeden ziyade, **elektrik proje tasarımı, devre analizi ve teknik çizim** araçlarında yetkinim:
+Yazılım geliştirmeden ziyade, **elektrik proje tasarımı, devre analizi ve teknik çizim** araçlarında yetkinim. Aşağıdaki grafikler bu araçlardaki tecrübe seviyemi yansıtmaktadır:
 
 <div align="center">
 
-| Kategori | Araçlar |
+| Araç / Yazılım | Yetkinlik Seviyesi |
 | :--- | :--- |
-| **Devre & PCB Tasarım** | ![KiCad](https://img.shields.io/badge/KiCad-3145A0?style=for-the-badge&logo=kicad&logoColor=white) ![EasyEDA](https://img.shields.io/badge/EasyEDA-4053D6?style=for-the-badge&logo=easyeda&logoColor=white) ![Proteus](https://img.shields.io/badge/Proteus-Phases?style=for-the-badge) |
-| **Proje & Teknik Çizim** | ![AutoCAD](https://img.shields.io/badge/AutoCAD%20Electrical-E01E26?style=for-the-badge&logo=autodesk&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-ED7C30?style=for-the-badge&logo=mathworks&logoColor=white) ![Fusion 360](https://img.shields.io/badge/Fusion%20360_(Temel)-0696D7?style=for-the-badge&logo=Autodesk%20Fusion%20360&logoColor=white) |
-| **Ofis & Yönetim** | ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Project](https://img.shields.io/badge/Bakım_Planlama-blue?style=for-the-badge) |
+| ![AutoCAD Electrical](https://img.shields.io/badge/AutoCAD%20Electrical-E01E26?style=for-the-badge&logo=autodesk&logoColor=white) | <img src="https://geps.dev/progress/85" alt="Progress Bar" /> |
+| ![KiCad](https://img.shields.io/badge/KiCad-3145A0?style=for-the-badge&logo=kicad&logoColor=white) | <img src="https://geps.dev/progress/70" alt="Progress Bar" /> |
+| ![EasyEDA](https://img.shields.io/badge/EasyEDA-4053D6?style=for-the-badge&logo=easyeda&logoColor=white) | <img src="https://geps.dev/progress/70" alt="Progress Bar" /> |
+| ![Proteus](https://img.shields.io/badge/Proteus-Phases?style=for-the-badge) | <img src="https://geps.dev/progress/65" alt="Progress Bar" /> |
+| ![MATLAB](https://img.shields.io/badge/MATLAB-ED7C30?style=for-the-badge&logo=mathworks&logoColor=white) | <img src="https://geps.dev/progress/40" alt="Progress Bar" /> |
+| ![Fusion 360](https://img.shields.io/badge/Autodesk%20Fusion%20360-0696D7?style=for-the-badge&logo=Autodesk%20Fusion%20360&logoColor=white) | <img src="https://geps.dev/progress/30" alt="Progress Bar" /> |
+| ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) | <img src="https://geps.dev/progress/90" alt="Progress Bar" /> |
 
 </div>
-
 ---
 
 ### 💼 Saha ve Staj Deneyimi
