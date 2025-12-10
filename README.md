@@ -9,7 +9,8 @@
 ### 👨‍🔧 Hakkımda
 İzmir **Dokuz Eylül Üniversitesi** Elektrik-Elektronik Mühendisliği son sınıf öğrencisiyim. Şubat 2026'da mezun olacağım. Pratik çözümler üretmeye hevesli, öğrenmeye açık ve saha uygulamalarına meraklı bir mühendis adayıyım.
 
-* 🎓 **Eğitim:** Dokuz Eylül Üniversitesi (2020 - 2026)
+* 🎓 **Eğitim:** Dokuz Eylül Üniversitesi (%100 İngilizce Müfredat) (2020 - 2026)
+* 🌍 **Dil Bilgisi:** İngilizce (Intermediate) - Teknik literatürü takip edebilecek yetkinlikteyim.
 * 📍 **Odak Noktam:** Güç sistemleri, PCB tasarımı, Devre analizi ve Bakım süreçleri.
 * 🚀 **Hedefim:** Teorik mühendislik bilgisini endüstriyel sahada işlevsel projelere dönüştürmek.
 
